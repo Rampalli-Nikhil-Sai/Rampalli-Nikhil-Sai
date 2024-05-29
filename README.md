@@ -56,13 +56,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rampalli-nikhil-sai&layout=compact&theme=radical" alt="rampalli-nikhil-sai" width="70%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rampalli-nikhil-sai&show_icons=true&theme=radical" alt="rampalli-nikhil-sai" width="70%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rampalli-nikhil-sai&theme=radical" alt="rampalli-nikhil-sai" width="70%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rampalli-nikhil-sai&layout=compact&theme=radical" alt="rampalli-nikhil-sai" width="90%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rampalli-nikhil-sai&show_icons=true&theme=radical" alt="rampalli-nikhil-sai" width="90%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rampalli-nikhil-sai&theme=radical" alt="rampalli-nikhil-sai" width="90%"/>
 </p>
 
 <!-- Animated Robot -->
 <p align="center">
-  <img src="https://github.com/Rampalli-Nikhil-Sai/Rampalli-Nikhil-Sai/blob/main/Ow1T.gif?raw=true" alt="robot animation" width ="70%"/>
+  <img src="https://github.com/Rampalli-Nikhil-Sai/Rampalli-Nikhil-Sai/blob/main/Ow1T.gif?raw=true" alt="robot animation" width ="90%"/>
 </p>
 </div>

@@ -66,6 +66,6 @@
 
 <!-- Animated Robot -->
 <p align="center">
-  <img src="" alt="robot animation" />
+  <img src="https://github.com/Rampalli-Nikhil-Sai/Rampalli-Nikhil-Sai/blob/main/Ow1T.gif?raw=true" alt="robot animation" />
 </p>
 </div>

@@ -53,11 +53,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rampalli-nikhil-sai&theme=flat&column=7" alt="rampalli-nikhil-sai" />
 </p>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rampalli-nikhil-sai&layout=compact&theme=radical" alt="rampalli-nikhil-sai" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rampalli-nikhil-sai&theme=radical" alt="rampalli-nikhil-sai" height="180" />
+<div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rampalli-nikhil-sai&layout=compact&theme=radical" alt="Image 1" style="width: 50%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rampalli-nikhil-sai&theme=radical" alt="Image 2" style="width: 50%;">
 </div>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rampalli-nikhil-sai&show_icons=true&theme=radical" alt="rampalli-nikhil-sai" height="200" style="width: 100%;" />

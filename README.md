@@ -51,17 +51,15 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rampalli-nikhil-sai&theme=flat&column=7" alt="rampalli-nikhil-sai" />
 </p>
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rampalli-nikhil-sai&layout=compact&theme=radical" alt="rampalli-nikhil-sai" height="200" style="flex: 1;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rampalli-nikhil-sai&theme=radical" alt="rampalli-nikhil-sai" height="200" style="flex: 1;" />
+</div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rampalli-nikhil-sai&show_icons=true&theme=radical" alt="rampalli-nikhil-sai" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rampalli-nikhil-sai&theme=radical" alt="rampalli-nikhil-sai"  height="200"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rampalli-nikhil-sai&layout=compact&theme=radical" alt="rampalli-nikhil-sai" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rampalli-nikhil-sai&show_icons=true&theme=radical" alt="rampalli-nikhil-sai" height="200" style="width: 100%;" />
 </p>
 
 <!-- Animated Robot -->
 <p align="center">
-  <img src="https://github.com/Rampalli-Nikhil-Sai/Rampalli-Nikhil-Sai/blob/main/Ow1T.gif?raw=true" alt="robot animation" height="350" />
+  <img src="https://github.com/Rampalli-Nikhil-Sai/Rampalli-Nikhil-Sai/blob/main/Ow1T.gif?raw=true" alt="robot animation" style="width: 100%;" />
 </p>

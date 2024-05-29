@@ -62,7 +62,7 @@
     </a>
 </div>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rampalli-nikhil-sai&show_icons=true&theme=radical" alt="rampalli-nikhil-sai" height="200" style="width: 100%;" />
 </p>
 

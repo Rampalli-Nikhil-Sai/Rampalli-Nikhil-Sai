@@ -54,8 +54,12 @@
 </p>
 
 <div style="display: flex; flex-wrap: nowrap;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rampalli-nikhil-sai&layout=compact&theme=radical" alt="Image 1" style="width: 50%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rampalli-nikhil-sai&theme=radical" alt="Image 2" style="width: 50%;">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rampalli-nikhil-sai&layout=compact&theme=radical">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rampalli-nikhil-sai&layout=compact&theme=radical" alt="Description of the first image" style="width: 50%;" title="Title of the first image">
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=rampalli-nikhil-sai&theme=radical">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rampalli-nikhil-sai&theme=radical" alt="Description of the second image" style="width: 50%;" title="Title of the second image">
+    </a>
 </div>
 
 <p align="center">
